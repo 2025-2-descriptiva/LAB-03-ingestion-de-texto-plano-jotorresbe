@@ -228,3 +228,7 @@ def test_01():
         "numeric simulation, "
         "system-identification"
     )
+
+    print(df)
+
+test_01()
