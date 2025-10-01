@@ -21,7 +21,7 @@ def pregunta_01():
 
     """
 
-    with open('files\input\clusters_report.txt') as f:
+    with open('files/input/clusters_report.txt') as f:
         lineas = f.read()
 
     # Separando .txt por salto de linea
